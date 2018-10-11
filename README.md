@@ -5,7 +5,7 @@ Jia-Wei Su
 
 蘇家威
 
-I am a  Department of Information and Communication student in Chaoyang University of Technology  
+I am a  Department of Information and Communication student in Chaoyang University of Technology  ，
 
 
-This my teacher of AI subject   https://github.com/tccnchsu/AI2007245
+and  this is  my teacher of AI subject   https://github.com/tccnchsu/AI2007245
